@@ -1,2 +1,2 @@
-# Numecral-Summaries-of-Data
-Program to calculate the Numecral Summaries of Data.
+# Numerical-Summaries-of-Data
+Program to calculate the Numerical Summaries of Data.
